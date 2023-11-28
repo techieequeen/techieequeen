@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋, I'm Raveena Boopathy</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Python developer from Tamilnadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techieequeen&label=Profile%20views&color=0e75b6&style=flat" alt="techieequeen" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **something cool!!!**
 
-- 🤝 I’m looking for help with [from](docs.github.com)
+- 🤝 I’m looking for help with (docs.github.com)
 
 - 💬 Ask me about **PYTHON**
 
